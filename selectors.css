@@ -1,0 +1,14 @@
+header {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 1px; 
+
+}
+section ul li {
+    list-style: none;
+    width: 150px;
+    float: left;
+}
+
+
+
