@@ -4,7 +4,7 @@ header {
     border-width: 1px; 
 
 }
-section ul li {
+header ul li {
     list-style: none;
     width: 150px;
     float: left;
